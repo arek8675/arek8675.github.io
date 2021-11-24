@@ -3,7 +3,7 @@
 #name{
     font-size: xx-large;
     font-weight: bolder;
-    color: white;
+    color: whitesmoke;
     word-break:normal;
     line-height: 70%;
     font-family: 'Noto Sans', sans-serif;
@@ -23,9 +23,7 @@
     white-space: pre;
 }
 
-#name:hover{
-    color: green;
-}
+
 
 #headshot{
     margin-top: 30px;
@@ -35,11 +33,19 @@
 }
 
 #bio{
-    font-size: larger;
+    color: whitesmoke;
+    font-size: x-large;
     line-height: 150%;
-    font-weight: bold;
+    
     font-family: 'Noto Sans', sans-serif;
 }
+
+#bio:hover{
+    color: whitesmoke;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
 
 #headshot-bio{
     margin-bottom: 50px
@@ -48,6 +54,7 @@
 #cards{
     font-size: large;
     font-weight: bold;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 
@@ -55,18 +62,24 @@
     font-size: large;
     font-weight: bold;
     margin: 20px
+    font-family: 'Noto Sans', sans-serif;
 }
 
 #contact-header{
     font-weight: bolder;
     font-size: x-large;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 #contact-text{
     font-size: large;
+    font-weight: bold;
     padding: 20px 0px;
-    margin-left: 10px;
+    font-family: 'Noto Sans', sans-serif;
+
 }
+
+
 
 img{
     padding: 0px 10px;
