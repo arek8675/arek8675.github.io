@@ -12,19 +12,11 @@ body{
     font-family: 'Noto Sans', sans-serif;
     padding-bottom: 20px;
     margin-top: 50px;
-    
-
 }
-
-
-
 
 
 #headshot{
     margin-top: 30px;
-    
-    
- 
 }
 
 #bio{
@@ -38,8 +30,10 @@ body{
 
 #bio:hover{
     opacity:1;
-    
-    
+}
+
+#headshot-bio{
+    margin-bottom: 50px
 }
 
 #focus-header{
@@ -57,11 +51,6 @@ body{
     
 }
 
-
-#headshot-bio{
-    margin-bottom: 50px
-}
-
 #skills-row{
     margin-top: 100px;
     background-color: #383838;
@@ -74,6 +63,15 @@ body{
     color: #383838;
 }
 
+#lang-photo{
+    padding: 0px 10px;
+}
+
+#lang-photo:hover{
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+}
 
 #cert-header{
     font-size: x-large;
@@ -97,21 +95,14 @@ body{
     padding: 20px 0px;
     font-family: 'Noto Sans', sans-serif;
     color: #cac89f;
-
-
 }
+
 #contact-text:hover{
     color: yellow;
 }
 
-#lang-photo{
-    padding: 0px 10px;
-}
-
-#lang-photo:hover{
-    -webkit-transform: scale(1.3);
-    -ms-transform: scale(1.3);
-    transform: scale(1.3);
+#contact{
+    margin-bottom: 50px;
 }
 
 #work-text{
@@ -125,11 +116,7 @@ body{
     opacity: 1;
 }
 
-#contact{
 
-    margin-bottom: 50px;
-
-}
 
 
 
