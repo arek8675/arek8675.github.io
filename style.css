@@ -1,12 +1,12 @@
 
 body{
-    background-color: #2c2c2c;
+    
     padding: 20px 20px;
 }
 
 
 #name{
-    color:#383838;
+    color:#afafaf;
     word-break:normal;
     
     font-family: 'Noto Sans', sans-serif;
@@ -17,20 +17,19 @@ body{
 
 #headshot{
     margin-top: 30px;
+    
+    
 }
 
 #bio{
-    color: #cac89f;
+    color: #ffeea0;
     font-size: xx-large;
     font-weight: bolder;
     line-height: 150%;
     font-family: 'Noto Sans', sans-serif;
-    opacity:0.5;
 }
 
-#bio:hover{
-    opacity:1;
-}
+
 
 #headshot-bio{
     margin-bottom: 50px
@@ -39,7 +38,7 @@ body{
 #focus-header{
     margin-top: 50px;
     font-family: 'Noto Sans', sans-serif;
-    color: #cac89f;
+    color: #ffeea0;
     font-size: x-large;
     font-weight: bolder;
     opacity:0.5;
@@ -53,14 +52,14 @@ body{
 
 #skills-row{
     margin-top: 100px;
-    background-color: #383838;
+    background-color: #afafaf;
 }
 
 #cards{
     font-size: x-large;
     font-weight: bold;
     font-family: 'Noto Sans', sans-serif;
-    color: #383838;
+    color: #afafaf;
 }
 
 #lang-photo{
@@ -78,7 +77,7 @@ body{
     font-weight: bolder;
     margin-top: 100px;
     font-family: 'Noto Sans', sans-serif;
-    color: #383838;
+    color: #afafaf;
 }
 
 #contact-header{
@@ -86,7 +85,7 @@ body{
     font-weight: bolder;
     font-size: x-large;
     font-family: 'Noto Sans', sans-serif;
-    color: #383838;
+    color: #afafaf;
 }
 
 #contact-text{
@@ -94,11 +93,11 @@ body{
     font-weight: bold;
     padding: 20px 0px;
     font-family: 'Noto Sans', sans-serif;
-    color: #cac89f;
+    color: #ffeea0;
 }
 
 #contact-text:hover{
-    color: yellow;
+    color: #ffdc3b;
 }
 
 #contact{
@@ -106,7 +105,7 @@ body{
 }
 
 #work-text{
-    color: #cac89f;
+    color: #ffeea0;
     opacity: 0.5;
     font-size: x-large;
     
